@@ -30,6 +30,8 @@ Unity: Game engine used for development.
 C#: Programming language for gameplay mechanics and logic.
 ## Team Members
 1.Saanvi Choudhary
+
 2.Prashant VS Garimella
+
 3.Gaurav Ravindra Nayak  
    
