@@ -1,5 +1,5 @@
 # Hacknite
-An immersive cyber-world platformer where a robot must conquer three perilous challenges to regain its humanity. Collect diamonds, survive high-tech trials, and earn hearts to become human again.
+An immersive cyber-world platformer where a robot must conquer perilous challenges to regain its humanity. Collect diamonds, survive high-tech trials, and earn hearts to become human again.
 ## Human Again
 Once human, the player now exists as a robot in the real world. To reclaim its humanity, it must explore the map and collect diamonds. Each diamond transports the player to one of three challenges set in a neon-lit cyber city.
 Winning a challenge rewards a heart. Losing one costs either a heart or the player’s single life. If no hearts or life remain—or the player refuses to use them—the journey ends.
