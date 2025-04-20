@@ -14,7 +14,9 @@ Spike Traps: The ground is littered with spike traps that periodically emerge. P
 Successfully navigating these obstacles will allow the player to reach the finish line and complete the level.
 ## Controls
 Up - Up arrow
+
 Left - Left arrow
+
 Right - Right arrow 
 ## How to Play
 1. Collect Diamonds: Search for diamonds scattered across the map.
