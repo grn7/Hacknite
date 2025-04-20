@@ -26,6 +26,7 @@ Right - Right arrow
 5. Game Over: If the player loses all hearts or lives, the game ends. Players can choose to use remaining lives or hearts to continue.
 ## Technologies Used
 Unity: Game engine used for development.
+
 C#: Programming language for gameplay mechanics and logic.
 ## Team Members
 1.Saanvi Choudhary
