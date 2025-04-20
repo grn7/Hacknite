@@ -2,7 +2,7 @@
 An immersive cyber-world platformer where a robot must conquer three perilous challenges to regain its humanity. Collect diamonds, survive high-tech trials, and earn hearts to become human again.
 ## Human Again
 In Human Again, players navigate through a vibrant cyber cityscape, where the protagonist, a robot, must conquer various challenges to regain its humanity. Each diamond collected serves as a key to access different challenges. The player must pass through high-tech trials and earn hearts. Losing in these challenges comes with consequences, either losing a heart or a life. If the player runs out of hearts or lives, or chooses not to use them, the journey ends. The player must collect all three hearts to restore humanity and win the game.
-##Levels
+## Levels
 ### Moonryze
 Set in a vibrant cyber city, this 2D platformer challenges players to leap across glass tiles that spawn at random heights from the right side of the screen. Navigate the ever-shifting skyline, using the tiles to stay afloat. Reach the far right edge of the screen to win and conquer the neon skyline.
 ### Cybersurge
